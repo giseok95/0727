@@ -1,6 +1,6 @@
 
 public class Student {	
-	String name;
+	String name; //Member variable, instance variable
 	int age;
 	
 	String hakbun;
